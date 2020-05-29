@@ -1,0 +1,15 @@
+{
+	"author": "IUT",
+	"version": "1.0",
+	"server_scripts": [
+		"server/s_prop.lua",
+		"libraries/shared/Player.lua",
+		"libraries/shared/weaponsData.lua"
+	],
+	"client_scripts": [
+		"client/c_prop.lua",
+		"libraries/shared/Player.lua"
+	],
+	"files": [
+	]
+}
