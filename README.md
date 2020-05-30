@@ -2,12 +2,14 @@
 
 ## Basics of prophunt
 
+All players must be connected before the Props transform in order to see them correctly. <br>
+
 By default :<br>
  - **Num 1** : Change team Props<br>
  - **Num 2** : Change team Hunter<br>
  - **F** : Reset object<br>
  - **Left Click** : Take object<br>
- 
+ - **Left Ctrl** : Lock Camera<br>
  To make testing easier, I've linked these actions on keys, but you'll obviously have to link them on event or interface.<br>
  
 ## Issues
